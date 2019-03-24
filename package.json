@@ -1,11 +1,12 @@
-{
+  {
   "name": "xiaofeiniu-api",
   "version": "1.0.0",
   "description": "小肥牛扫码点餐数据api子系统",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "dev":"node-dev ./index.js"
   },
   "repository": {
     "type": "git",
